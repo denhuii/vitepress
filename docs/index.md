@@ -10,12 +10,12 @@ hero:
   text: Nothing Is Impossible
   tagline: Get ready for a development environment that can finally catch up with you.
   image:
-    src: ./assets/img.jpg
+    src: 'https://cdn.denhuii.com/img/img.jpg'
     alt: Vite
   actions:
     - theme: brand
       text: Get Started
-      link: /guide/
+      link: /
     # - theme: alt
     #   text: Why Vite?
     #   link: /guide/why
